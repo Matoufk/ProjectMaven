@@ -53,7 +53,7 @@ public class FirstPdf {
         //code mort
         
     }
-    //Methode morte
+    //Methode morte de ces morts
     static int kgh(int i, double k){
     	if(i==2)return 5;
 		return 2;
